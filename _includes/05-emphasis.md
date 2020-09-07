@@ -1,4 +1,4 @@
-_programming languages_
+_PROGRAMMING LANGUAGES_
 Python
 
 **SKILLS**
